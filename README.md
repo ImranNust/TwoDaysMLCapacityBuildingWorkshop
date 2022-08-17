@@ -1,4 +1,9 @@
-# Hands-on Machine Learning: A Two-Days Capacity Building Workshop
+<h1 align="center" > <center> Hands-on Machine Learning: A Two-Days Capacity Building Workshop </center><h1>
+
+<p align="center">
+    <img src="Image.jpg">
+p>
+
 
 This repository contains the lecture notes and Python Codes for a two-days workshop on Capacity Building Training on Machine Learning.
 
