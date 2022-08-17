@@ -9,7 +9,7 @@ This repository contains the lecture notes and Python Codes for a two-days works
 
 The contents, lecture notes, and Jupyter Notebooks for codes are listed below.
 
-1. [Contents](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop.git)
+1. [Contents](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation1_Contents.pdf)
 2. [An Introduction of Machine Learning](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation2_IntroductionToML.mp4)
 3. [Different Types of Machine Learning Algorithms](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation3_TypesOfML.mp4)
 4. [Unsupervised Machine Learning - K-Means Clustering](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation4_k_meansClustering.mp4)
