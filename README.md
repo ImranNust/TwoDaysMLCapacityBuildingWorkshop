@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="Image.jpg">
-/p>
+</p>
 
 
 This repository contains the lecture notes and Python Codes for a two-days workshop on Capacity Building Training on Machine Learning.
