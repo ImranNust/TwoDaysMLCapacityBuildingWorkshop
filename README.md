@@ -6,7 +6,8 @@ The contents, lecture notes, and Jupyter Notebooks for codes are listed below.
 
 1. [Contents](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop.git)
 2. [An Introduction of Machine Learning](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation2_IntroductionToML.mp4)
-1. [Different Types of Machine Learning Algorithms](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation3_TypesOfML.mp4)
-1. [Unsupervised Machine Learning -- K-Means Clustering](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation4_k_meansClustering.mp4)
-1. [Supervised Machine Learning -- Linear Regression](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation5_LinearRegression.mp4)
+3. [Different Types of Machine Learning Algorithms](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation3_TypesOfML.mp4)
+4. [Unsupervised Machine Learning - K-Means Clustering](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation4_k_meansClustering.mp4)
+  4.1 [Implementation of An Unspersived Machine Learning Algorithm Using Sklearn](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/K_meansClustering.ipynb)
+5. [Supervised Machine Learning - Linear Regression](https://github.com/ImranNust/TwoDaysMLCapacityBuildingWorkshop/blob/main/Presentation5_LinearRegression.mp4)
 
